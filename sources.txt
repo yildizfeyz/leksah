@@ -1,4 +1,2 @@
 https://github.com/leksah/ltk
 https://github.com/leksah/leksah-server
-https://github.com/leksah/yi
-./
